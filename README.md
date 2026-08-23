@@ -42,7 +42,7 @@ portfolio.json ──► [ Strands Agent ]
                               (called ONLY when a decision is needed)
 ```
 
-See `architecture.png` for the full diagram.
+![Architecture diagram](architecture.svg)
 
 ## Run it
 
