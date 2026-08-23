@@ -1,0 +1,8 @@
+{
+  "agency": "Example Web Studio, Tampa FL",
+  "sites": [
+    { "client": "West Coast Spine",      "url": "https://www.westcoastspinecenter.com" },
+    { "client": "Hope Home Inspections", "url": "https://hopehomeinspections.com" },
+    { "client": "AKVM",                  "url": "https://akvm.com" }
+  ]
+}
